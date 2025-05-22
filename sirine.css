@@ -1,0 +1,17 @@
+.title {
+    color: rgb(0, 128, 0);
+    text-align: center;
+    background-color: aqua;
+    border: solid 2px;
+}
+
+#abc {  
+    color: red;
+    
+}
+
+
+
+/* indentifiant {  //// altgr+4  (curly braces)
+    propretie : value
+} */
